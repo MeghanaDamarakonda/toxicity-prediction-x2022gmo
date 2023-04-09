@@ -1,7 +1,7 @@
 # toxicity-prediction-x2022gmo
 Toxicity Prediction Challenge on Kaggle
 
-
+### Code for generating rdkit molecular descriptors is in `molecular_desc.ipynb`
 
 ## Steps to run the fully Reproducible code 
 
@@ -21,7 +21,3 @@ https://www.kaggle.com/datasets/x2022gmo/feature-selection
 ## Best Submission for fully reproducible code with dataset
 
 https://www.kaggle.com/code/x2022gmo/x2022gmo-best-submission
-
-## Code for generating molecular descriptors can be found here
-
-https://github.com/MeghanaDamarakonda/toxicity-prediction-x2022gmo
